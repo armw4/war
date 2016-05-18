@@ -23,7 +23,8 @@ module War
 
       while(!@dealer.won? and !@opponent.won?)
         winner = nil
-        dealer_card = @dealer.play_card and opponent_card = @opponent.play_card
+        dealer_card = @dealer.play_card
+        opponent_card = @opponent.play_card
 
         cards << dealer_card
         cards << opponent_card
@@ -43,6 +44,8 @@ module War
           @dealer.shuffle_cards
           @opponent.shuffle_cards
         end
+
+        puts "current score - dealer #{@dealer.score} opponent #{@opponent.score} (#{cards.length} cards on table)"
       end
     end
   end

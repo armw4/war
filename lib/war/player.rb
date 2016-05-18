@@ -40,7 +40,7 @@ module War
     end
 
     def take_cards_won(cards)
-      @cards_accepted = @cards_accepted + cards
+      @cards_accepted.concat(cards)
     end
 
     def won?
