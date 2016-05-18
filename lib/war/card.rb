@@ -2,7 +2,7 @@ module War
   class Card
     include Comparable
 
-    attr_reader :weight, :suit, :name
+    attr_reader :rank, :suit, :name
 
     def initialize(rank, suit, name)
       @rank = rank
@@ -11,7 +11,7 @@ module War
     end
 
     def <=> (card)
-      self.rank <=> card.rank
+      @rank <=> card.rank
     end
 
     def to_s

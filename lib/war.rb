@@ -11,5 +11,3 @@ opponent = War::Player.new
 game = War::Game.new(dealer, opponent)
 
 game.start
-
-puts "here we teh goes, breeeeeeh"
