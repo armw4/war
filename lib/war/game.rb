@@ -26,6 +26,8 @@ module War
       end
     end
 
+    private
+
     def play
       round = 0
 
