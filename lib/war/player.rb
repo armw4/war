@@ -45,7 +45,11 @@ module War
     end
 
     def won?
-      @cards_won.length == 52
+      score == 52
+    end
+
+    def score
+      @cards_won.length
     end
 
     def restart

@@ -15,8 +15,9 @@ module War
       @dealer.deal
       play
 
-      puts "game over, dealer wins"   if @dealer.won?   and return
-      puts "game over, opponent wins" if @opponent.won? and return
+      puts "game over, final score - dealer #{@dealer.score} opponent #{@opponent.score}"
+      puts "dealer wins"   if @dealer.won?   and return
+      puts "opponent wins" if @opponent.won? and return
 
       if @game_count == 5038
         puts "maximum number of games played (5038), terminating"
