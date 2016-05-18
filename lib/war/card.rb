@@ -4,14 +4,18 @@ module War
 
     attr_reader :weight, :suit, :name
 
-    def initialize(weight, suit, name)
-      @weight = weight
+    def initialize(rank, suit, name)
+      @rank = rank
       @suit = suit
       @name = name
     end
 
     def <=> (card)
-      self.weight <=> card.weight
+      self.rank <=> card.rank
+    end
+
+    def to_s
+      "#{@name} of #{@suit} - rank (#{@rank})"
     end
   end
 end
