@@ -17,7 +17,6 @@ module War
       raise "opponent required to deal" unless @opponent
       raise "deck required to deal"     unless @deck
 
-      @deck.shuffle
       current_player_id = 0
 
       while card = @deck.next
