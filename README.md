@@ -10,5 +10,5 @@ Requires ruby 2.x+
 ➜ ruby lib/war.rb
 ```
 
-The game will make up to 5038 to determine a winner (max stack size). See [output.log](output.log) for
+The game will make up to 5038 to determine a winner (max stack level/`SystemStackError`). See [output.log](output.log) for
 sample output.
