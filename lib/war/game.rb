@@ -13,7 +13,6 @@ module War
     def start
       puts "starting game #{@game_count += 1}"
       @dealer.deal
-      puts
       play
     end
 
@@ -38,8 +37,6 @@ module War
           winner.take_cards_won(@cards)
           @cards.clear
         end
-
-        puts
       end
     end
 
