@@ -36,7 +36,7 @@ module War
         puts "draw"                                       if dealer_card == opponent_card
 
         if winner
-          puts "crediting winner with #{cards.length} cards"
+          puts "crediting winner with #{cards.length / 2} card(s)"
 
           winner.take_cards_won(cards)
           cards.clear
