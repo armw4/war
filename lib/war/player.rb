@@ -1,28 +1,34 @@
 module War
   class Player
-    attr_accessor :opponent
+    attr_reader :opponent
 
     def initialize(deck = nil)
       @deck = deck
       @cards_won = []
       @cards_accepted = []
-      @players = { 0 => @opponent, 1 => self }
     end
 
     def play_card
       @cards_accepted.pop
     end
 
+    def opponent=(player)
+      raise "cannot play self" if self.equal? player
+
+      @opponent = player
+    end
+
     def deal
       raise "opponent required to deal" unless @opponent
       raise "deck required to deal"     unless @deck
 
+      players = { 0 => @opponent, 1 => self }
       current_player_id = 0
 
       while card = @deck.next
-        player = @players[current_player_id]
+        player = players[current_player_id]
 
-        puts "dealing card #{card} to #{current_player == 1 ? "self" : "opponent"}"
+        puts "dealing card #{card} to #{current_player_id == 1 ? "self" : "opponent"}"
 
         player.accept_card card
 
