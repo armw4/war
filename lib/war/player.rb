@@ -4,7 +4,6 @@ module War
 
     def initialize(deck = nil)
       @deck = deck
-      @cards_won = []
       @cards_accepted = []
     end
 
@@ -41,7 +40,7 @@ module War
     end
 
     def take_cards_won(cards)
-      @cards_won.concat cards
+      @cards_accepted = @cards_accepted + cards
     end
 
     def won?
@@ -49,13 +48,11 @@ module War
     end
 
     def score
-      @cards_won.length
+      @cards_accepted.length
     end
 
-    def restart
-      @cards_won.clear
-      @cards_accepted.clear
-      @deck = Deck.new if @deck
+    def shuffle_cards
+      @cards_accepted.shuffle!
     end
   end
 end
