@@ -45,7 +45,7 @@ module War
     def restart
       @cards_won.clear
       @cards_accepted.clear
-      @deck = Deck.new
+      @deck = Deck.new if @deck
     end
   end
 end
