@@ -3,7 +3,6 @@ module War
     include Comparable
 
     attr_reader :weight, :suit, :name
-    attr_accessor
 
     def initialize(weight, suit, name)
       @weight = weight
