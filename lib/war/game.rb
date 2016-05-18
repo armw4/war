@@ -14,6 +14,15 @@ module War
       puts "starting game #{@game_count += 1}"
       @dealer.deal
       play
+
+      puts "game over, dealer wins"   if @dealer.won?   and return
+      puts "game over, opponent wins" if @opponent.won? and return
+
+      if @game_count == 5038
+        puts "maximum number of games played (5038), terminating"
+      else
+        restart
+      end
     end
 
     def play
@@ -43,8 +52,8 @@ module War
     def restart
       @cards.clear
 
-      player1.restart
-      player2.restart
+      @dealer.restart
+      @opponent.restart
 
       start
     end
