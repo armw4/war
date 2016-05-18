@@ -4,18 +4,26 @@ module War
       @dealer = dealer
       @opponent = opponent
       @cards = []
+      @game_count = 0
 
       @dealer.opponent = @opponent
       @opponent.opponent = @dealer
     end
 
     def start
+      puts "starting game #{@game_count += 1}"
       @dealer.deal
+      puts
+      play
+    end
+
+    def play
+      round = 0
 
       while(dealer_card = @dealer.play_card and opponent_card = @opponent.play_card)
         winner = nil
 
-        puts
+        puts "round #{round += 1} of game #{@game_count}\n"
         puts "dealer w/ #{dealer_card} [vs] opponent w/ #{opponent_card}"
         puts "dealer beat opponent with #{dealer_card}"   if dealer_card   > opponent_card and winner = @dealer
         puts "opponent beat dealer with #{opponent_card}" if opponent_card > dealer_card   and winner = @opponent
@@ -30,6 +38,8 @@ module War
           winner.take_cards_won(@cards)
           @cards.clear
         end
+
+        puts
       end
     end
 
