@@ -70,7 +70,7 @@ module War
     end
 
     def return_cards_to_player(player_name, player, player_cards_in_play)
-      puts "#{player_name} exhausted all cards. returning #{player_cards_in_play.length} cards from table/play to dealer"
+      puts "#{player_name} exhausted all cards. returning #{player_cards_in_play.length} cards from table/play to #{player_name}"
       puts "went from #{@cards_in_play.length} on table to #{@cards_in_play.length - player_cards_in_play.length} on table"
 
       @cards_in_play = @cards_in_play - player_cards_in_play
