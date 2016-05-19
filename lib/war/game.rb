@@ -17,7 +17,8 @@ module War
       play
 
       puts "game over, final score - dealer #{@dealer.score} opponent #{@opponent.score}"
-      puts "player died prematurely during WAR (#{@cards_in_play.length} cards left on table)" if @cards_in_play.any?
+      puts "DRAW!!" if @dealer.won? and @opponent.won? # i.e. players have identical hands (52 cards left in play, 0 winnings)
+      puts "player(s) died prematurely during WAR (#{@cards_in_play.length} cards left on table)" if @cards_in_play.any?
     end
 
     private
