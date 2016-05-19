@@ -54,5 +54,10 @@ module War
     def shuffle_cards
       @cards_accepted.shuffle!
     end
+
+    def replay_previous_cards_won(cards)
+      take_cards_won(cards)
+      shuffle_cards
+    end
   end
 end
