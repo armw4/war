@@ -1,1416 +1,1370 @@
-dealing card seven of heart - rank (6) to opponent
-dealing card five of spade - rank (4) to self
-dealing card three of spade - rank (2) to opponent
-dealing card six of heart - rank (5) to self
-dealing card four of heart - rank (3) to opponent
-dealing card ace of diamond - rank (13) to self
-dealing card deuce of club - rank (1) to opponent
-dealing card jack of spade - rank (10) to self
-dealing card five of heart - rank (4) to opponent
-dealing card nine of diamond - rank (8) to self
-dealing card five of club - rank (4) to opponent
-dealing card four of spade - rank (3) to self
-dealing card nine of heart - rank (8) to opponent
-dealing card jack of club - rank (10) to self
-dealing card seven of spade - rank (6) to opponent
-dealing card king of diamond - rank (12) to self
 dealing card eight of club - rank (7) to opponent
-dealing card ace of spade - rank (13) to self
-dealing card three of club - rank (2) to opponent
-dealing card seven of diamond - rank (6) to self
-dealing card six of diamond - rank (5) to opponent
-dealing card six of club - rank (5) to self
-dealing card three of heart - rank (2) to opponent
-dealing card three of diamond - rank (2) to self
-dealing card deuce of heart - rank (1) to opponent
-dealing card deuce of diamond - rank (1) to self
-dealing card five of diamond - rank (4) to opponent
-dealing card four of club - rank (3) to self
-dealing card king of club - rank (12) to opponent
-dealing card nine of club - rank (8) to self
-dealing card eight of heart - rank (7) to opponent
-dealing card six of spade - rank (5) to self
-dealing card queen of spade - rank (11) to opponent
-dealing card king of heart - rank (12) to self
-dealing card ten of club - rank (9) to opponent
-dealing card ten of diamond - rank (9) to self
-dealing card queen of heart - rank (11) to opponent
-dealing card king of spade - rank (12) to self
-dealing card nine of spade - rank (8) to opponent
 dealing card jack of heart - rank (10) to self
-dealing card deuce of spade - rank (1) to opponent
-dealing card queen of club - rank (11) to self
-dealing card ace of heart - rank (13) to opponent
-dealing card jack of diamond - rank (10) to self
-dealing card eight of diamond - rank (7) to opponent
-dealing card ten of spade - rank (9) to self
-dealing card queen of diamond - rank (11) to opponent
-dealing card four of diamond - rank (3) to self
+dealing card four of heart - rank (3) to opponent
+dealing card six of diamond - rank (5) to self
+dealing card nine of diamond - rank (8) to opponent
+dealing card queen of spade - rank (11) to self
+dealing card nine of club - rank (8) to opponent
+dealing card three of heart - rank (2) to self
+dealing card six of club - rank (5) to opponent
+dealing card eight of heart - rank (7) to self
 dealing card ten of heart - rank (9) to opponent
+dealing card deuce of spade - rank (1) to self
+dealing card king of diamond - rank (12) to opponent
+dealing card six of spade - rank (5) to self
+dealing card seven of spade - rank (6) to opponent
+dealing card ace of club - rank (13) to self
+dealing card three of spade - rank (2) to opponent
+dealing card queen of heart - rank (11) to self
+dealing card deuce of diamond - rank (1) to opponent
+dealing card nine of spade - rank (8) to self
+dealing card jack of diamond - rank (10) to opponent
+dealing card jack of spade - rank (10) to self
+dealing card six of heart - rank (5) to opponent
 dealing card seven of club - rank (6) to self
-dealing card ace of club - rank (13) to opponent
-dealing card eight of spade - rank (7) to self
-round 1
-dealer w/ eight of spade - rank (7) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 2
-dealer w/ ace of spade - rank (13) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with ace of spade - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 3
-dealer w/ queen of club - rank (11) [vs] opponent w/ five of heart - rank (4)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 1 card(s)
+dealing card queen of club - rank (11) to opponent
+dealing card deuce of heart - rank (1) to self
+dealing card king of club - rank (12) to opponent
+dealing card ace of diamond - rank (13) to self
+dealing card eight of diamond - rank (7) to opponent
+dealing card deuce of club - rank (1) to self
+dealing card king of spade - rank (12) to opponent
+dealing card three of diamond - rank (2) to self
+dealing card ten of diamond - rank (9) to opponent
+dealing card king of heart - rank (12) to self
+dealing card four of diamond - rank (3) to opponent
+dealing card ace of spade - rank (13) to self
+dealing card queen of diamond - rank (11) to opponent
+dealing card five of spade - rank (4) to self
+dealing card eight of spade - rank (7) to opponent
+dealing card four of club - rank (3) to self
+dealing card five of heart - rank (4) to opponent
+dealing card three of club - rank (2) to self
+dealing card seven of diamond - rank (6) to opponent
+dealing card five of diamond - rank (4) to self
+dealing card ten of club - rank (9) to opponent
+dealing card nine of heart - rank (8) to self
+dealing card seven of heart - rank (6) to opponent
+dealing card jack of club - rank (10) to self
+dealing card five of club - rank (4) to opponent
+dealing card ten of spade - rank (9) to self
+dealing card four of spade - rank (3) to opponent
+dealing card ace of heart - rank (13) to self
+round [1]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ four of spade - rank (3)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
 current score - dealer 27 opponent 25 (0 cards on table)
-round 4
-dealer w/ four of diamond - rank (3) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
+round [2]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
 current score - dealer 26 opponent 26 (0 cards on table)
-round 5
-dealer w/ six of spade - rank (5) [vs] opponent w/ four of diamond - rank (3)
-dealer beat opponent with six of spade - rank (5)
-crediting winner with 1 card(s)
+round [3]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ five of club - rank (4)
+dealer beat opponent with six of diamond - rank (5)
+crediting winner with 1 new card(s) - (2) total
 current score - dealer 27 opponent 25 (0 cards on table)
-round 6
-dealer w/ king of spade - rank (12) [vs] opponent w/ three of spade - rank (2)
-dealer beat opponent with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 28 opponent 24 (0 cards on table)
-round 7
-dealer w/ jack of spade - rank (10) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 27 opponent 25 (0 cards on table)
-round 8
-dealer w/ king of heart - rank (12) [vs] opponent w/ ten of club - rank (9)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 28 opponent 24 (0 cards on table)
-round 9
-dealer w/ six of heart - rank (5) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 27 opponent 25 (0 cards on table)
-round 10
-dealer w/ ten of club - rank (9) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 11
-dealer w/ five of heart - rank (4) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with five of heart - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 27 opponent 25 (0 cards on table)
-round 12
-dealer w/ nine of diamond - rank (8) [vs] opponent w/ ten of heart - rank (9)
-opponent beat dealer with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 13
-dealer w/ nine of club - rank (8) [vs] opponent w/ queen of spade - rank (11)
-opponent beat dealer with queen of spade - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 14
-dealer w/ ace of diamond - rank (13) [vs] opponent w/ eight of spade - rank (7)
-dealer beat opponent with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 15
-dealer w/ jack of heart - rank (10) [vs] opponent w/ eight of club - rank (7)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 27 opponent 25 (0 cards on table)
-round 16
-dealer w/ four of heart - rank (3) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 17
-dealer w/ three of diamond - rank (2) [vs] opponent w/ six of heart - rank (5)
-opponent beat dealer with six of heart - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 18
-dealer w/ three of spade - rank (2) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 19
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ five of club - rank (4)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 20
-dealer w/ seven of club - rank (6) [vs] opponent w/ six of diamond - rank (5)
-dealer beat opponent with seven of club - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 21
-dealer w/ six of diamond - rank (5) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 22
-dealer w/ four of spade - rank (3) [vs] opponent w/ eight of diamond - rank (7)
-opponent beat dealer with eight of diamond - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 23
-dealer w/ queen of club - rank (11) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 24
-dealer w/ jack of club - rank (10) [vs] opponent w/ three of diamond - rank (2)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 25
-dealer w/ king of diamond - rank (12) [vs] opponent w/ queen of diamond - rank (11)
-dealer beat opponent with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 26
-dealer w/ jack of heart - rank (10) [vs] opponent w/ three of heart - rank (2)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 27
-dealer w/ ten of spade - rank (9) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 28
-dealer w/ king of spade - rank (12) [vs] opponent w/ queen of spade - rank (11)
-dealer beat opponent with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 29
-dealer w/ deuce of diamond - rank (1) [vs] opponent w/ five of diamond - rank (4)
-opponent beat dealer with five of diamond - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 30
-dealer w/ six of club - rank (5) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 31
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ nine of club - rank (8)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 32
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ ten of club - rank (9)
+round [4]
+dealer w/ seven of club - rank (6) [vs] opponent w/ seven of spade - rank (6)
 draw
-current score - dealer 24 opponent 26 (2 cards on table)
-round 33
-dealer w/ seven of diamond - rank (6) [vs] opponent w/ queen of heart - rank (11)
-opponent beat dealer with queen of heart - rank (11)
-crediting winner with 2 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 34
-dealer w/ king of diamond - rank (12) [vs] opponent w/ nine of heart - rank (8)
-dealer beat opponent with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 35
-dealer w/ three of diamond - rank (2) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 36
-dealer w/ ace of spade - rank (13) [vs] opponent w/ ace of club - rank (13)
-draw
-current score - dealer 22 opponent 28 (2 cards on table)
-round 37
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 2 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 38
-dealer w/ queen of spade - rank (11) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 39
-dealer w/ king of heart - rank (12) [vs] opponent w/ queen of club - rank (11)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 40
-dealer w/ four of diamond - rank (3) [vs] opponent w/ ten of spade - rank (9)
-opponent beat dealer with ten of spade - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 41
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ queen of spade - rank (11)
-draw
-current score - dealer 19 opponent 31 (2 cards on table)
-round 42
-dealer w/ king of spade - rank (12) [vs] opponent w/ four of spade - rank (3)
-dealer beat opponent with king of spade - rank (12)
-crediting winner with 2 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 43
-dealer w/ queen of club - rank (11) [vs] opponent w/ ten of spade - rank (9)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 44
-dealer w/ king of spade - rank (12) [vs] opponent w/ three of club - rank (2)
-dealer beat opponent with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 45
-dealer w/ five of heart - rank (4) [vs] opponent w/ six of heart - rank (5)
-opponent beat dealer with six of heart - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 46
-dealer w/ three of heart - rank (2) [vs] opponent w/ seven of diamond - rank (6)
+current score - dealer 26 opponent 24 (2 cards on table)
+round [5]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ seven of diamond - rank (6)
 opponent beat dealer with seven of diamond - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 47
-dealer w/ four of club - rank (3) [vs] opponent w/ four of heart - rank (3)
-draw
-current score - dealer 21 opponent 29 (2 cards on table)
-round 48
-dealer w/ nine of heart - rank (8) [vs] opponent w/ six of heart - rank (5)
-dealer beat opponent with nine of heart - rank (8)
-crediting winner with 2 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 49
-dealer w/ five of spade - rank (4) [vs] opponent w/ three of spade - rank (2)
-dealer beat opponent with five of spade - rank (4)
-crediting winner with 1 card(s)
+crediting winner with 2 new card(s) - (4) total
 current score - dealer 25 opponent 27 (0 cards on table)
-round 50
-dealer w/ five of spade - rank (4) [vs] opponent w/ ten of club - rank (9)
-opponent beat dealer with ten of club - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 51
-dealer w/ six of heart - rank (5) [vs] opponent w/ ten of club - rank (9)
-opponent beat dealer with ten of club - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 52
-dealer w/ four of club - rank (3) [vs] opponent w/ nine of spade - rank (8)
-opponent beat dealer with nine of spade - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 53
-dealer w/ king of spade - rank (12) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 54
-dealer w/ eight of club - rank (7) [vs] opponent w/ eight of heart - rank (7)
-draw
-current score - dealer 20 opponent 30 (2 cards on table)
-round 55
-dealer w/ four of heart - rank (3) [vs] opponent w/ ace of spade - rank (13)
-opponent beat dealer with ace of spade - rank (13)
-crediting winner with 2 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 56
-dealer w/ king of diamond - rank (12) [vs] opponent w/ five of spade - rank (4)
-dealer beat opponent with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 57
-dealer w/ three of club - rank (2) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 58
-dealer w/ five of spade - rank (4) [vs] opponent w/ three of heart - rank (2)
-dealer beat opponent with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 59
-dealer w/ nine of club - rank (8) [vs] opponent w/ eight of heart - rank (7)
-dealer beat opponent with nine of club - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 60
-dealer w/ jack of diamond - rank (10) [vs] opponent w/ six of heart - rank (5)
-dealer beat opponent with jack of diamond - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 61
-dealer w/ seven of club - rank (6) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 62
-dealer w/ ace of diamond - rank (13) [vs] opponent w/ ace of heart - rank (13)
-draw
-current score - dealer 20 opponent 30 (2 cards on table)
-round 63
-dealer w/ ten of spade - rank (9) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 2 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 64
-dealer w/ king of diamond - rank (12) [vs] opponent w/ deuce of club - rank (1)
-dealer beat opponent with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 65
-dealer w/ eight of heart - rank (7) [vs] opponent w/ seven of heart - rank (6)
-dealer beat opponent with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 66
-dealer w/ nine of club - rank (8) [vs] opponent w/ ten of spade - rank (9)
-opponent beat dealer with ten of spade - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 67
-dealer w/ queen of club - rank (11) [vs] opponent w/ ten of diamond - rank (9)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 68
-dealer w/ seven of heart - rank (6) [vs] opponent w/ three of club - rank (2)
-dealer beat opponent with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 69
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ ace of spade - rank (13)
-opponent beat dealer with ace of spade - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 70
-dealer w/ eight of spade - rank (7) [vs] opponent w/ queen of diamond - rank (11)
-opponent beat dealer with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 71
-dealer w/ six of spade - rank (5) [vs] opponent w/ eight of club - rank (7)
-opponent beat dealer with eight of club - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 72
-dealer w/ queen of club - rank (11) [vs] opponent w/ deuce of heart - rank (1)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 73
-dealer w/ eight of heart - rank (7) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 74
-dealer w/ six of heart - rank (5) [vs] opponent w/ queen of heart - rank (11)
-opponent beat dealer with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 75
-dealer w/ nine of heart - rank (8) [vs] opponent w/ eight of heart - rank (7)
-dealer beat opponent with nine of heart - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 76
-dealer w/ jack of heart - rank (10) [vs] opponent w/ five of heart - rank (4)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 77
-dealer w/ queen of club - rank (11) [vs] opponent w/ eight of club - rank (7)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 78
-dealer w/ four of spade - rank (3) [vs] opponent w/ ten of heart - rank (9)
-opponent beat dealer with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 79
-dealer w/ king of heart - rank (12) [vs] opponent w/ five of diamond - rank (4)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 80
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ eight of diamond - rank (7)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 81
-dealer w/ queen of spade - rank (11) [vs] opponent w/ queen of heart - rank (11)
-draw
-current score - dealer 21 opponent 29 (2 cards on table)
-round 82
-dealer w/ queen of club - rank (11) [vs] opponent w/ four of spade - rank (3)
-dealer beat opponent with queen of club - rank (11)
-crediting winner with 2 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 83
-dealer w/ jack of club - rank (10) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 84
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ queen of diamond - rank (11)
-opponent beat dealer with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 85
-dealer w/ seven of heart - rank (6) [vs] opponent w/ seven of diamond - rank (6)
-draw
-current score - dealer 21 opponent 29 (2 cards on table)
-round 86
-dealer w/ eight of club - rank (7) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with eight of club - rank (7)
-crediting winner with 2 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 87
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ ten of heart - rank (9)
-opponent beat dealer with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 88
-dealer w/ five of club - rank (4) [vs] opponent w/ four of club - rank (3)
-dealer beat opponent with five of club - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 89
-dealer w/ king of diamond - rank (12) [vs] opponent w/ ten of club - rank (9)
-dealer beat opponent with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 90
-dealer w/ three of spade - rank (2) [vs] opponent w/ queen of diamond - rank (11)
-opponent beat dealer with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 91
-dealer w/ three of heart - rank (2) [vs] opponent w/ seven of spade - rank (6)
-opponent beat dealer with seven of spade - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 92
-dealer w/ jack of diamond - rank (10) [vs] opponent w/ seven of spade - rank (6)
-dealer beat opponent with jack of diamond - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 93
-dealer w/ jack of heart - rank (10) [vs] opponent w/ ten of heart - rank (9)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 94
-dealer w/ seven of heart - rank (6) [vs] opponent w/ deuce of diamond - rank (1)
-dealer beat opponent with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 95
-dealer w/ five of club - rank (4) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 96
-dealer w/ ten of club - rank (9) [vs] opponent w/ eight of diamond - rank (7)
-dealer beat opponent with ten of club - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 26 opponent 26 (0 cards on table)
-round 97
-dealer w/ eight of heart - rank (7) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 98
-dealer w/ jack of diamond - rank (10) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 99
-dealer w/ four of spade - rank (3) [vs] opponent w/ six of club - rank (5)
-opponent beat dealer with six of club - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 100
-dealer w/ five of heart - rank (4) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 101
-dealer w/ deuce of club - rank (1) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 102
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with eight of diamond - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 103
-dealer w/ ten of club - rank (9) [vs] opponent w/ deuce of club - rank (1)
-dealer beat opponent with ten of club - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 104
-dealer w/ nine of heart - rank (8) [vs] opponent w/ ten of spade - rank (9)
-opponent beat dealer with ten of spade - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 105
-dealer w/ ten of heart - rank (9) [vs] opponent w/ six of club - rank (5)
-dealer beat opponent with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 106
-dealer w/ four of heart - rank (3) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 107
-dealer w/ ten of club - rank (9) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 108
-dealer w/ queen of spade - rank (11) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 109
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ five of heart - rank (4)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 110
-dealer w/ queen of club - rank (11) [vs] opponent w/ queen of diamond - rank (11)
-draw
-current score - dealer 20 opponent 30 (2 cards on table)
-round 111
-dealer w/ jack of heart - rank (10) [vs] opponent w/ jack of diamond - rank (10)
-draw
-current score - dealer 19 opponent 29 (4 cards on table)
-round 112
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ five of club - rank (4)
-dealer beat opponent with eight of diamond - rank (7)
-crediting winner with 3 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 113
-dealer w/ eight of club - rank (7) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with eight of club - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 25 opponent 27 (0 cards on table)
-round 114
-dealer w/ eight of club - rank (7) [vs] opponent w/ nine of club - rank (8)
-opponent beat dealer with nine of club - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 115
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 116
-dealer w/ ten of heart - rank (9) [vs] opponent w/ seven of club - rank (6)
-dealer beat opponent with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 117
-dealer w/ five of club - rank (4) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 118
-dealer w/ queen of club - rank (11) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 119
-dealer w/ five of spade - rank (4) [vs] opponent w/ three of diamond - rank (2)
-dealer beat opponent with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 120
-dealer w/ deuce of heart - rank (1) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 121
-dealer w/ jack of heart - rank (10) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 122
-dealer w/ seven of heart - rank (6) [vs] opponent w/ three of heart - rank (2)
-dealer beat opponent with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 24 opponent 28 (0 cards on table)
-round 123
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ ace of spade - rank (13)
-opponent beat dealer with ace of spade - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 124
-dealer w/ seven of heart - rank (6) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 125
-dealer w/ seven of spade - rank (6) [vs] opponent w/ six of heart - rank (5)
-dealer beat opponent with seven of spade - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 23 opponent 29 (0 cards on table)
-round 126
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 22 opponent 30 (0 cards on table)
-round 127
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 128
-dealer w/ four of club - rank (3) [vs] opponent w/ eight of heart - rank (7)
-opponent beat dealer with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 129
-dealer w/ queen of heart - rank (11) [vs] opponent w/ eight of diamond - rank (7)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 130
-dealer w/ seven of club - rank (6) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 131
-dealer w/ king of heart - rank (12) [vs] opponent w/ eight of club - rank (7)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 132
-dealer w/ seven of spade - rank (6) [vs] opponent w/ eight of heart - rank (7)
-opponent beat dealer with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 133
-dealer w/ three of club - rank (2) [vs] opponent w/ jack of spade - rank (10)
-opponent beat dealer with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 134
-dealer w/ five of heart - rank (4) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with five of heart - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 135
-dealer w/ deuce of club - rank (1) [vs] opponent w/ ten of diamond - rank (9)
-opponent beat dealer with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 136
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ deuce of heart - rank (1)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 137
-dealer w/ six of heart - rank (5) [vs] opponent w/ ten of diamond - rank (9)
-opponent beat dealer with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 138
-dealer w/ queen of heart - rank (11) [vs] opponent w/ seven of heart - rank (6)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 139
-dealer w/ five of heart - rank (4) [vs] opponent w/ six of spade - rank (5)
-opponent beat dealer with six of spade - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 140
-dealer w/ five of diamond - rank (4) [vs] opponent w/ nine of club - rank (8)
-opponent beat dealer with nine of club - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 141
-dealer w/ seven of diamond - rank (6) [vs] opponent w/ ten of diamond - rank (9)
-opponent beat dealer with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 142
-dealer w/ queen of heart - rank (11) [vs] opponent w/ eight of heart - rank (7)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 143
-dealer w/ seven of heart - rank (6) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 144
-dealer w/ five of spade - rank (4) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 145
-dealer w/ king of diamond - rank (12) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 146
-dealer w/ deuce of diamond - rank (1) [vs] opponent w/ four of diamond - rank (3)
-opponent beat dealer with four of diamond - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 147
-dealer w/ king of heart - rank (12) [vs] opponent w/ jack of spade - rank (10)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 148
-dealer w/ jack of diamond - rank (10) [vs] opponent w/ eight of spade - rank (7)
-dealer beat opponent with jack of diamond - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 149
-dealer w/ jack of diamond - rank (10) [vs] opponent w/ ace of spade - rank (13)
-opponent beat dealer with ace of spade - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 150
-dealer w/ deuce of heart - rank (1) [vs] opponent w/ five of spade - rank (4)
-opponent beat dealer with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 151
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ seven of spade - rank (6)
-dealer beat opponent with eight of diamond - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 152
-dealer w/ eight of heart - rank (7) [vs] opponent w/ deuce of diamond - rank (1)
-dealer beat opponent with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 153
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ deuce of club - rank (1)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 154
-dealer w/ six of club - rank (5) [vs] opponent w/ six of diamond - rank (5)
-draw
-current score - dealer 16 opponent 34 (2 cards on table)
-round 155
-dealer w/ four of heart - rank (3) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 2 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 156
-dealer w/ eight of club - rank (7) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 157
-dealer w/ three of diamond - rank (2) [vs] opponent w/ four of club - rank (3)
-opponent beat dealer with four of club - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 158
-dealer w/ three of heart - rank (2) [vs] opponent w/ four of club - rank (3)
-opponent beat dealer with four of club - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 12 opponent 40 (0 cards on table)
-round 159
-dealer w/ seven of spade - rank (6) [vs] opponent w/ six of club - rank (5)
-dealer beat opponent with seven of spade - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 160
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ jack of club - rank (10)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 161
-dealer w/ eight of heart - rank (7) [vs] opponent w/ four of spade - rank (3)
-dealer beat opponent with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 162
-dealer w/ eight of heart - rank (7) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 163
-dealer w/ jack of club - rank (10) [vs] opponent w/ six of diamond - rank (5)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 164
-dealer w/ six of club - rank (5) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with six of club - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 165
-dealer w/ seven of spade - rank (6) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 166
-dealer w/ queen of heart - rank (11) [vs] opponent w/ eight of club - rank (7)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 167
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ three of club - rank (2)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 168
-dealer w/ six of diamond - rank (5) [vs] opponent w/ nine of diamond - rank (8)
-opponent beat dealer with nine of diamond - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 169
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ nine of diamond - rank (8)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 170
-dealer w/ jack of club - rank (10) [vs] opponent w/ ten of club - rank (9)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 171
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ three of spade - rank (2)
-dealer beat opponent with eight of diamond - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 172
-dealer w/ eight of club - rank (7) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 173
-dealer w/ jack of club - rank (10) [vs] opponent w/ ace of spade - rank (13)
-opponent beat dealer with ace of spade - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 174
-dealer w/ ten of heart - rank (9) [vs] opponent w/ nine of heart - rank (8)
-dealer beat opponent with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 175
-dealer w/ queen of heart - rank (11) [vs] opponent w/ nine of club - rank (8)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 176
-dealer w/ four of spade - rank (3) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 177
-dealer w/ eight of spade - rank (7) [vs] opponent w/ four of club - rank (3)
-dealer beat opponent with eight of spade - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 178
-dealer w/ jack of heart - rank (10) [vs] opponent w/ five of diamond - rank (4)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 179
-dealer w/ three of club - rank (2) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 180
-dealer w/ four of club - rank (3) [vs] opponent w/ five of spade - rank (4)
-opponent beat dealer with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 181
-dealer w/ deuce of club - rank (1) [vs] opponent w/ eight of heart - rank (7)
-opponent beat dealer with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 182
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 183
-dealer w/ ten of heart - rank (9) [vs] opponent w/ eight of heart - rank (7)
-dealer beat opponent with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 184
-dealer w/ four of heart - rank (3) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 185
-dealer w/ eight of heart - rank (7) [vs] opponent w/ seven of club - rank (6)
-dealer beat opponent with eight of heart - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 186
-dealer w/ nine of heart - rank (8) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 187
-dealer w/ ten of club - rank (9) [vs] opponent w/ king of club - rank (12)
-opponent beat dealer with king of club - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 188
-dealer w/ nine of diamond - rank (8) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 189
-dealer w/ queen of heart - rank (11) [vs] opponent w/ eight of diamond - rank (7)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 190
-dealer w/ king of heart - rank (12) [vs] opponent w/ jack of club - rank (10)
-dealer beat opponent with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 191
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ ten of diamond - rank (9)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 192
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ seven of heart - rank (6)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 193
-dealer w/ jack of spade - rank (10) [vs] opponent w/ six of diamond - rank (5)
-dealer beat opponent with jack of spade - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 194
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ five of club - rank (4)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 20 opponent 32 (0 cards on table)
-round 195
-dealer w/ nine of club - rank (8) [vs] opponent w/ five of heart - rank (4)
-dealer beat opponent with nine of club - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 21 opponent 31 (0 cards on table)
-round 196
-dealer w/ six of club - rank (5) [vs] opponent w/ six of spade - rank (5)
-draw
-current score - dealer 20 opponent 30 (2 cards on table)
-round 197
-dealer w/ king of heart - rank (12) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 2 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 198
-dealer w/ eight of heart - rank (7) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 199
-dealer w/ five of diamond - rank (4) [vs] opponent w/ six of spade - rank (5)
-opponent beat dealer with six of spade - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 200
-dealer w/ six of diamond - rank (5) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 201
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 202
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ three of diamond - rank (2)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 203
-dealer w/ queen of heart - rank (11) [vs] opponent w/ ten of diamond - rank (9)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 204
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ seven of spade - rank (6)
-dealer beat opponent with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 205
-dealer w/ seven of club - rank (6) [vs] opponent w/ five of spade - rank (4)
-dealer beat opponent with seven of club - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 19 opponent 33 (0 cards on table)
-round 206
-dealer w/ queen of diamond - rank (11) [vs] opponent w/ queen of spade - rank (11)
-draw
-current score - dealer 18 opponent 32 (2 cards on table)
-round 207
-dealer w/ seven of club - rank (6) [vs] opponent w/ king of diamond - rank (12)
-opponent beat dealer with king of diamond - rank (12)
-crediting winner with 2 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 208
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ nine of diamond - rank (8)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 18 opponent 34 (0 cards on table)
-round 209
-dealer w/ three of spade - rank (2) [vs] opponent w/ ten of spade - rank (9)
-opponent beat dealer with ten of spade - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 17 opponent 35 (0 cards on table)
-round 210
-dealer w/ five of club - rank (4) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 16 opponent 36 (0 cards on table)
-round 211
-dealer w/ nine of diamond - rank (8) [vs] opponent w/ ace of club - rank (13)
-opponent beat dealer with ace of club - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 15 opponent 37 (0 cards on table)
-round 212
-dealer w/ eight of spade - rank (7) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 213
-dealer w/ deuce of diamond - rank (1) [vs] opponent w/ four of spade - rank (3)
-opponent beat dealer with four of spade - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 214
-dealer w/ nine of club - rank (8) [vs] opponent w/ nine of spade - rank (8)
-draw
-current score - dealer 12 opponent 38 (2 cards on table)
-round 215
-dealer w/ three of diamond - rank (2) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 2 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 216
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ six of club - rank (5)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 12 opponent 40 (0 cards on table)
-round 217
-dealer w/ seven of heart - rank (6) [vs] opponent w/ four of spade - rank (3)
-dealer beat opponent with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 218
-dealer w/ five of spade - rank (4) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 14 opponent 38 (0 cards on table)
-round 219
-dealer w/ four of spade - rank (3) [vs] opponent w/ five of diamond - rank (4)
-opponent beat dealer with five of diamond - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 220
-dealer w/ seven of spade - rank (6) [vs] opponent w/ eight of spade - rank (7)
-opponent beat dealer with eight of spade - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 12 opponent 40 (0 cards on table)
-round 221
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ three of diamond - rank (2)
-dealer beat opponent with eight of diamond - rank (7)
-crediting winner with 1 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 222
-dealer w/ jack of club - rank (10) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 12 opponent 40 (0 cards on table)
-round 223
-dealer w/ seven of heart - rank (6) [vs] opponent w/ king of diamond - rank (12)
-opponent beat dealer with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 224
-dealer w/ three of diamond - rank (2) [vs] opponent w/ three of heart - rank (2)
-draw
-current score - dealer 10 opponent 40 (2 cards on table)
-round 225
-dealer w/ jack of heart - rank (10) [vs] opponent w/ six of heart - rank (5)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 2 card(s)
-current score - dealer 13 opponent 39 (0 cards on table)
-round 226
-dealer w/ ten of heart - rank (9) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 12 opponent 40 (0 cards on table)
-round 227
-dealer w/ eight of diamond - rank (7) [vs] opponent w/ queen of club - rank (11)
-opponent beat dealer with queen of club - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 228
-dealer w/ jack of spade - rank (10) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 229
-dealer w/ five of spade - rank (4) [vs] opponent w/ nine of heart - rank (8)
-opponent beat dealer with nine of heart - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 230
-dealer w/ three of diamond - rank (2) [vs] opponent w/ three of club - rank (2)
-draw
-current score - dealer 8 opponent 42 (2 cards on table)
-round 231
-dealer w/ six of club - rank (5) [vs] opponent w/ seven of club - rank (6)
-opponent beat dealer with seven of club - rank (6)
-crediting winner with 2 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 232
-dealer w/ jack of heart - rank (10) [vs] opponent w/ three of club - rank (2)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 233
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ four of diamond - rank (3)
-opponent beat dealer with four of diamond - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 234
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ seven of diamond - rank (6)
-dealer beat opponent with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 235
-dealer w/ queen of heart - rank (11) [vs] opponent w/ jack of club - rank (10)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 236
-dealer w/ ten of diamond - rank (9) [vs] opponent w/ ten of club - rank (9)
-draw
-current score - dealer 8 opponent 42 (2 cards on table)
-round 237
-dealer w/ seven of diamond - rank (6) [vs] opponent w/ king of spade - rank (12)
-opponent beat dealer with king of spade - rank (12)
-crediting winner with 2 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 238
-dealer w/ jack of heart - rank (10) [vs] opponent w/ five of spade - rank (4)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 239
-dealer w/ six of heart - rank (5) [vs] opponent w/ five of club - rank (4)
-dealer beat opponent with six of heart - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 240
-dealer w/ five of spade - rank (4) [vs] opponent w/ ten of heart - rank (9)
-opponent beat dealer with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 241
-dealer w/ five of club - rank (4) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with five of club - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 242
-dealer w/ queen of heart - rank (11) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 243
-dealer w/ five of heart - rank (4) [vs] opponent w/ six of diamond - rank (5)
-opponent beat dealer with six of diamond - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 244
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ ten of diamond - rank (9)
-opponent beat dealer with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 245
-dealer w/ three of heart - rank (2) [vs] opponent w/ ten of diamond - rank (9)
-opponent beat dealer with ten of diamond - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 246
-dealer w/ jack of club - rank (10) [vs] opponent w/ ten of spade - rank (9)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 247
-dealer w/ jack of club - rank (10) [vs] opponent w/ four of club - rank (3)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 248
-dealer w/ three of club - rank (2) [vs] opponent w/ five of spade - rank (4)
-opponent beat dealer with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 249
-dealer w/ six of heart - rank (5) [vs] opponent w/ seven of heart - rank (6)
-opponent beat dealer with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 250
-dealer w/ jack of heart - rank (10) [vs] opponent w/ five of heart - rank (4)
-dealer beat opponent with jack of heart - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 251
+round [6]
 dealer w/ four of club - rank (3) [vs] opponent w/ three of spade - rank (2)
 dealer beat opponent with four of club - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 252
-dealer w/ queen of heart - rank (11) [vs] opponent w/ five of diamond - rank (4)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 253
-dealer w/ jack of club - rank (10) [vs] opponent w/ seven of spade - rank (6)
-dealer beat opponent with jack of club - rank (10)
-crediting winner with 1 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 254
-dealer w/ jack of club - rank (10) [vs] opponent w/ ace of diamond - rank (13)
-opponent beat dealer with ace of diamond - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 255
-dealer w/ five of club - rank (4) [vs] opponent w/ deuce of spade - rank (1)
-dealer beat opponent with five of club - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 256
-dealer w/ seven of spade - rank (6) [vs] opponent w/ ten of club - rank (9)
-opponent beat dealer with ten of club - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 257
-dealer w/ five of diamond - rank (4) [vs] opponent w/ three of club - rank (2)
-dealer beat opponent with five of diamond - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 11 opponent 41 (0 cards on table)
-round 258
-dealer w/ four of heart - rank (3) [vs] opponent w/ ten of heart - rank (9)
-opponent beat dealer with ten of heart - rank (9)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 259
-dealer w/ ten of spade - rank (9) [vs] opponent w/ queen of spade - rank (11)
-opponent beat dealer with queen of spade - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 260
-dealer w/ queen of heart - rank (11) [vs] opponent w/ deuce of club - rank (1)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 261
-dealer w/ deuce of spade - rank (1) [vs] opponent w/ four of diamond - rank (3)
-opponent beat dealer with four of diamond - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 262
-dealer w/ deuce of club - rank (1) [vs] opponent w/ three of heart - rank (2)
-opponent beat dealer with three of heart - rank (2)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 263
-dealer w/ five of club - rank (4) [vs] opponent w/ four of heart - rank (3)
-dealer beat opponent with five of club - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 264
-dealer w/ queen of heart - rank (11) [vs] opponent w/ seven of club - rank (6)
-dealer beat opponent with queen of heart - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 10 opponent 42 (0 cards on table)
-round 265
-dealer w/ three of club - rank (2) [vs] opponent w/ four of spade - rank (3)
-opponent beat dealer with four of spade - rank (3)
-crediting winner with 1 card(s)
-current score - dealer 9 opponent 43 (0 cards on table)
-round 266
-dealer w/ queen of heart - rank (11) [vs] opponent w/ king of heart - rank (12)
-opponent beat dealer with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 8 opponent 44 (0 cards on table)
-round 267
-dealer w/ three of spade - rank (2) [vs] opponent w/ king of diamond - rank (12)
-opponent beat dealer with king of diamond - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 7 opponent 45 (0 cards on table)
-round 268
-dealer w/ seven of club - rank (6) [vs] opponent w/ king of heart - rank (12)
-opponent beat dealer with king of heart - rank (12)
-crediting winner with 1 card(s)
-current score - dealer 6 opponent 46 (0 cards on table)
-round 269
-dealer w/ four of club - rank (3) [vs] opponent w/ nine of heart - rank (8)
-opponent beat dealer with nine of heart - rank (8)
-crediting winner with 1 card(s)
-current score - dealer 5 opponent 47 (0 cards on table)
-round 270
-dealer w/ jack of heart - rank (10) [vs] opponent w/ queen of diamond - rank (11)
-opponent beat dealer with queen of diamond - rank (11)
-crediting winner with 1 card(s)
-current score - dealer 4 opponent 48 (0 cards on table)
-round 271
-dealer w/ five of club - rank (4) [vs] opponent w/ six of heart - rank (5)
-opponent beat dealer with six of heart - rank (5)
-crediting winner with 1 card(s)
-current score - dealer 3 opponent 49 (0 cards on table)
-round 272
-dealer w/ five of diamond - rank (4) [vs] opponent w/ seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 26 opponent 26 (0 cards on table)
+round [7]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ nine of club - rank (8)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [8]
+dealer w/ ace of club - rank (13) [vs] opponent w/ seven of spade - rank (6)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [9]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ ten of diamond - rank (9)
+draw
+current score - dealer 27 opponent 23 (2 cards on table)
+round [10]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ queen of club - rank (11)
+opponent beat dealer with queen of club - rank (11)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 26 opponent 26 (0 cards on table)
+round [11]
+dealer w/ five of club - rank (4) [vs] opponent w/ ten of spade - rank (9)
+opponent beat dealer with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 25 opponent 27 (0 cards on table)
+round [12]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ eight of club - rank (7)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 26 opponent 26 (0 cards on table)
+round [13]
+dealer w/ three of club - rank (2) [vs] opponent w/ seven of club - rank (6)
 opponent beat dealer with seven of club - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 2 opponent 50 (0 cards on table)
-round 273
-dealer w/ five of heart - rank (4) [vs] opponent w/ three of diamond - rank (2)
-dealer beat opponent with five of heart - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 3 opponent 49 (0 cards on table)
-round 274
-dealer w/ five of heart - rank (4) [vs] opponent w/ ace of heart - rank (13)
-opponent beat dealer with ace of heart - rank (13)
-crediting winner with 1 card(s)
-current score - dealer 2 opponent 50 (0 cards on table)
-round 275
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 25 opponent 27 (0 cards on table)
+round [14]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ queen of spade - rank (11)
+draw
+current score - dealer 24 opponent 26 (2 cards on table)
+round [15]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ four of diamond - rank (3)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [16]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ nine of diamond - rank (8)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [17]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [18]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [19]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ jack of diamond - rank (10)
+opponent beat dealer with jack of diamond - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [20]
+dealer w/ nine of heart - rank (8) [vs] opponent w/ five of club - rank (4)
+dealer beat opponent with nine of heart - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [21]
 dealer w/ four of heart - rank (3) [vs] opponent w/ seven of heart - rank (6)
 opponent beat dealer with seven of heart - rank (6)
-crediting winner with 1 card(s)
-current score - dealer 1 opponent 51 (0 cards on table)
-round 276
-dealer w/ three of diamond - rank (2) [vs] opponent w/ five of spade - rank (4)
-opponent beat dealer with five of spade - rank (4)
-crediting winner with 1 card(s)
-current score - dealer 0 opponent 52 (0 cards on table)
-game over, final score - dealer 0 opponent 52
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [22]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ queen of club - rank (11)
+draw
+current score - dealer 28 opponent 22 (2 cards on table)
+round [23]
+dealer w/ ace of club - rank (13) [vs] opponent w/ seven of diamond - rank (6)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [24]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [25]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [26]
+dealer w/ jack of heart - rank (10) [vs] opponent w/ deuce of diamond - rank (1)
+dealer beat opponent with jack of heart - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [27]
+dealer w/ six of heart - rank (5) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [28]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ queen of diamond - rank (11)
+draw
+current score - dealer 32 opponent 18 (2 cards on table)
+round [29]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [30]
+dealer w/ nine of diamond - rank (8) [vs] opponent w/ ten of heart - rank (9)
+opponent beat dealer with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [31]
+dealer w/ deuce of spade - rank (1) [vs] opponent w/ eight of heart - rank (7)
+opponent beat dealer with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [32]
+dealer w/ jack of club - rank (10) [vs] opponent w/ eight of diamond - rank (7)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [33]
+dealer w/ four of heart - rank (3) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [34]
+dealer w/ king of heart - rank (12) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [35]
+dealer w/ deuce of heart - rank (1) [vs] opponent w/ four of heart - rank (3)
+opponent beat dealer with four of heart - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [36]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ five of heart - rank (4)
+dealer beat opponent with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [37]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [38]
+dealer w/ eight of club - rank (7) [vs] opponent w/ eight of heart - rank (7)
+draw
+current score - dealer 32 opponent 18 (2 cards on table)
+round [39]
+dealer w/ four of diamond - rank (3) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [40]
+dealer w/ five of heart - rank (4) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with five of heart - rank (4)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [41]
+dealer w/ four of heart - rank (3) [vs] opponent w/ three of club - rank (2)
+dealer beat opponent with four of heart - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [42]
+dealer w/ nine of heart - rank (8) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [43]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ seven of club - rank (6)
+draw
+current score - dealer 31 opponent 19 (2 cards on table)
+round [44]
+dealer w/ three of club - rank (2) [vs] opponent w/ ten of spade - rank (9)
+opponent beat dealer with ten of spade - rank (9)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [45]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ king of club - rank (12)
+opponent beat dealer with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [46]
+dealer w/ three of heart - rank (2) [vs] opponent w/ three of club - rank (2)
+draw
+current score - dealer 28 opponent 22 (2 cards on table)
+round [47]
+dealer w/ six of heart - rank (5) [vs] opponent w/ nine of spade - rank (8)
+opponent beat dealer with nine of spade - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [48]
+dealer w/ jack of club - rank (10) [vs] opponent w/ nine of spade - rank (8)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [49]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ deuce of spade - rank (1)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [50]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ king of spade - rank (12)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [51]
+dealer w/ three of spade - rank (2) [vs] opponent w/ six of club - rank (5)
+opponent beat dealer with six of club - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [52]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ ten of spade - rank (9)
+opponent beat dealer with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [53]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [54]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ ten of spade - rank (9)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [55]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ seven of club - rank (6)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [56]
+dealer w/ three of spade - rank (2) [vs] opponent w/ four of diamond - rank (3)
+opponent beat dealer with four of diamond - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [57]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ eight of club - rank (7)
+opponent beat dealer with eight of club - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [58]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ ten of heart - rank (9)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [59]
+dealer w/ four of club - rank (3) [vs] opponent w/ eight of spade - rank (7)
+opponent beat dealer with eight of spade - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [60]
+dealer w/ five of club - rank (4) [vs] opponent w/ seven of heart - rank (6)
+opponent beat dealer with seven of heart - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [61]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ nine of heart - rank (8)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [62]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ six of diamond - rank (5)
+dealer beat opponent with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [63]
+dealer w/ seven of club - rank (6) [vs] opponent w/ deuce of heart - rank (1)
+dealer beat opponent with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [64]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ seven of spade - rank (6)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [65]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [66]
+dealer w/ queen of club - rank (11) [vs] opponent w/ five of club - rank (4)
+dealer beat opponent with queen of club - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [67]
+dealer w/ nine of club - rank (8) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [68]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ eight of heart - rank (7)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [69]
+dealer w/ king of heart - rank (12) [vs] opponent w/ three of club - rank (2)
+dealer beat opponent with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [70]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [71]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ eight of club - rank (7)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [72]
+dealer w/ six of heart - rank (5) [vs] opponent w/ jack of diamond - rank (10)
+opponent beat dealer with jack of diamond - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [73]
+dealer w/ nine of club - rank (8) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [74]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [75]
+dealer w/ jack of heart - rank (10) [vs] opponent w/ four of club - rank (3)
+dealer beat opponent with jack of heart - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 39 opponent 13 (0 cards on table)
+round [76]
+dealer w/ six of heart - rank (5) [vs] opponent w/ seven of diamond - rank (6)
+opponent beat dealer with seven of diamond - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [77]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ king of club - rank (12)
+opponent beat dealer with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [78]
+dealer w/ four of spade - rank (3) [vs] opponent w/ three of heart - rank (2)
+dealer beat opponent with four of spade - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [79]
+dealer w/ three of heart - rank (2) [vs] opponent w/ six of heart - rank (5)
+opponent beat dealer with six of heart - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [80]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ six of club - rank (5)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [81]
+dealer w/ king of heart - rank (12) [vs] opponent w/ eight of spade - rank (7)
+dealer beat opponent with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 39 opponent 13 (0 cards on table)
+round [82]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ seven of diamond - rank (6)
+opponent beat dealer with seven of diamond - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [83]
+dealer w/ deuce of heart - rank (1) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [84]
+dealer w/ jack of club - rank (10) [vs] opponent w/ jack of spade - rank (10)
+draw
+current score - dealer 36 opponent 14 (2 cards on table)
+round [85]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 39 opponent 13 (0 cards on table)
+round [86]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ king of club - rank (12)
+opponent beat dealer with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [87]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [88]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ queen of heart - rank (11)
+opponent beat dealer with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [89]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [90]
+dealer w/ nine of club - rank (8) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [91]
+dealer w/ four of club - rank (3) [vs] opponent w/ ten of diamond - rank (9)
+opponent beat dealer with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [92]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ four of diamond - rank (3)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [93]
+dealer w/ king of spade - rank (12) [vs] opponent w/ seven of diamond - rank (6)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [94]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ queen of heart - rank (11)
+opponent beat dealer with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [95]
+dealer w/ deuce of spade - rank (1) [vs] opponent w/ seven of heart - rank (6)
+opponent beat dealer with seven of heart - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [96]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ ten of club - rank (9)
+draw
+current score - dealer 32 opponent 18 (2 cards on table)
+round [97]
+dealer w/ six of club - rank (5) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [98]
+dealer w/ five of heart - rank (4) [vs] opponent w/ seven of spade - rank (6)
+opponent beat dealer with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [99]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ ten of heart - rank (9)
+opponent beat dealer with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [100]
+dealer w/ four of heart - rank (3) [vs] opponent w/ five of heart - rank (4)
+opponent beat dealer with five of heart - rank (4)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [101]
+dealer w/ four of diamond - rank (3) [vs] opponent w/ six of heart - rank (5)
+opponent beat dealer with six of heart - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [102]
+dealer w/ king of spade - rank (12) [vs] opponent w/ ten of diamond - rank (9)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [103]
+dealer w/ three of club - rank (2) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [104]
+dealer w/ jack of heart - rank (10) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 26 opponent 26 (0 cards on table)
+round [105]
+dealer w/ nine of heart - rank (8) [vs] opponent w/ deuce of heart - rank (1)
+dealer beat opponent with nine of heart - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 27 opponent 25 (0 cards on table)
+round [106]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [107]
+dealer w/ seven of club - rank (6) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [108]
+dealer w/ deuce of diamond - rank (1) [vs] opponent w/ jack of heart - rank (10)
+opponent beat dealer with jack of heart - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [109]
+dealer w/ ten of diamond - rank (9) [vs] opponent w/ nine of spade - rank (8)
+dealer beat opponent with ten of diamond - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [110]
+dealer w/ four of spade - rank (3) [vs] opponent w/ jack of heart - rank (10)
+opponent beat dealer with jack of heart - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [111]
+dealer w/ jack of club - rank (10) [vs] opponent w/ seven of diamond - rank (6)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [112]
+dealer w/ seven of club - rank (6) [vs] opponent w/ four of spade - rank (3)
+dealer beat opponent with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [113]
+dealer w/ eight of spade - rank (7) [vs] opponent w/ four of club - rank (3)
+dealer beat opponent with eight of spade - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [114]
+dealer w/ four of club - rank (3) [vs] opponent w/ four of diamond - rank (3)
+draw
+current score - dealer 30 opponent 20 (2 cards on table)
+round [115]
+dealer w/ five of club - rank (4) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [116]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ ten of heart - rank (9)
+opponent beat dealer with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 28 opponent 24 (0 cards on table)
+round [117]
+dealer w/ ace of club - rank (13) [vs] opponent w/ king of club - rank (12)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 29 opponent 23 (0 cards on table)
+round [118]
+dealer w/ nine of heart - rank (8) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with nine of heart - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [119]
+dealer w/ king of spade - rank (12) [vs] opponent w/ nine of diamond - rank (8)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [120]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ deuce of diamond - rank (1)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [121]
+dealer w/ seven of club - rank (6) [vs] opponent w/ ten of heart - rank (9)
+opponent beat dealer with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [122]
+dealer w/ king of club - rank (12) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [123]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ four of club - rank (3)
+opponent beat dealer with four of club - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [124]
+dealer w/ four of spade - rank (3) [vs] opponent w/ six of diamond - rank (5)
+opponent beat dealer with six of diamond - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [125]
+dealer w/ six of spade - rank (5) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with six of spade - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [126]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ three of heart - rank (2)
+dealer beat opponent with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [127]
+dealer w/ eight of spade - rank (7) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [128]
+dealer w/ eight of diamond - rank (7) [vs] opponent w/ queen of heart - rank (11)
+opponent beat dealer with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 30 opponent 22 (0 cards on table)
+round [129]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ seven of heart - rank (6)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [130]
+dealer w/ queen of club - rank (11) [vs] opponent w/ eight of diamond - rank (7)
+dealer beat opponent with queen of club - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [131]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 31 opponent 21 (0 cards on table)
+round [132]
+dealer w/ king of spade - rank (12) [vs] opponent w/ five of heart - rank (4)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [133]
+dealer w/ king of spade - rank (12) [vs] opponent w/ ten of heart - rank (9)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [134]
+dealer w/ five of heart - rank (4) [vs] opponent w/ ten of spade - rank (9)
+opponent beat dealer with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [135]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ six of club - rank (5)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [136]
+dealer w/ six of club - rank (5) [vs] opponent w/ five of heart - rank (4)
+dealer beat opponent with six of club - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [137]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ queen of heart - rank (11)
+opponent beat dealer with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [138]
+dealer w/ five of spade - rank (4) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 32 opponent 20 (0 cards on table)
+round [139]
+dealer w/ eight of club - rank (7) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with eight of club - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [140]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ five of spade - rank (4)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [141]
+dealer w/ ace of club - rank (13) [vs] opponent w/ four of diamond - rank (3)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [142]
+dealer w/ five of heart - rank (4) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [143]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ jack of heart - rank (10)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [144]
+dealer w/ five of spade - rank (4) [vs] opponent w/ six of diamond - rank (5)
+opponent beat dealer with six of diamond - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [145]
+dealer w/ three of spade - rank (2) [vs] opponent w/ seven of club - rank (6)
+opponent beat dealer with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [146]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ jack of diamond - rank (10)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [147]
+dealer w/ three of heart - rank (2) [vs] opponent w/ three of club - rank (2)
+draw
+current score - dealer 33 opponent 17 (2 cards on table)
+round [148]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ seven of spade - rank (6)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [149]
+dealer w/ deuce of diamond - rank (1) [vs] opponent w/ three of spade - rank (2)
+opponent beat dealer with three of spade - rank (2)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [150]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ eight of heart - rank (7)
+opponent beat dealer with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [151]
+dealer w/ three of heart - rank (2) [vs] opponent w/ deuce of spade - rank (1)
+dealer beat opponent with three of heart - rank (2)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [152]
+dealer w/ five of diamond - rank (4) [vs] opponent w/ eight of heart - rank (7)
+opponent beat dealer with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [153]
+dealer w/ jack of club - rank (10) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 33 opponent 19 (0 cards on table)
+round [154]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 34 opponent 18 (0 cards on table)
+round [155]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ ten of spade - rank (9)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [156]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ seven of club - rank (6)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [157]
+dealer w/ king of heart - rank (12) [vs] opponent w/ six of diamond - rank (5)
+dealer beat opponent with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [158]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ ten of club - rank (9)
+draw
+current score - dealer 36 opponent 14 (2 cards on table)
+round [159]
+dealer w/ three of heart - rank (2) [vs] opponent w/ nine of club - rank (8)
+opponent beat dealer with nine of club - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [160]
+dealer w/ queen of club - rank (11) [vs] opponent w/ nine of club - rank (8)
+dealer beat opponent with queen of club - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 36 opponent 16 (0 cards on table)
+round [161]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ eight of heart - rank (7)
+opponent beat dealer with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 35 opponent 17 (0 cards on table)
+round [162]
+dealer w/ eight of club - rank (7) [vs] opponent w/ eight of spade - rank (7)
+draw
+current score - dealer 34 opponent 16 (2 cards on table)
+round [163]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ three of heart - rank (2)
+dealer beat opponent with ten of spade - rank (9)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 37 opponent 15 (0 cards on table)
+round [164]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ deuce of diamond - rank (1)
+dealer beat opponent with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 38 opponent 14 (0 cards on table)
+round [165]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ seven of diamond - rank (6)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 39 opponent 13 (0 cards on table)
+round [166]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ eight of heart - rank (7)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 40 opponent 12 (0 cards on table)
+round [167]
+dealer w/ jack of heart - rank (10) [vs] opponent w/ four of spade - rank (3)
+dealer beat opponent with jack of heart - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [168]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ five of spade - rank (4)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [169]
+dealer w/ ace of club - rank (13) [vs] opponent w/ five of diamond - rank (4)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 43 opponent 9 (0 cards on table)
+round [170]
+dealer w/ nine of club - rank (8) [vs] opponent w/ ten of club - rank (9)
+opponent beat dealer with ten of club - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [171]
+dealer w/ seven of heart - rank (6) [vs] opponent w/ jack of club - rank (10)
+opponent beat dealer with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [172]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ four of club - rank (3)
+dealer beat opponent with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [173]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [174]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ ten of heart - rank (9)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [175]
+dealer w/ eight of diamond - rank (7) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [176]
+dealer w/ six of heart - rank (5) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 40 opponent 12 (0 cards on table)
+round [177]
+dealer w/ seven of club - rank (6) [vs] opponent w/ queen of heart - rank (11)
+opponent beat dealer with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 39 opponent 13 (0 cards on table)
+round [178]
+dealer w/ four of spade - rank (3) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with four of spade - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 40 opponent 12 (0 cards on table)
+round [179]
+dealer w/ ace of club - rank (13) [vs] opponent w/ jack of club - rank (10)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [180]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ five of club - rank (4)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [181]
+dealer w/ six of club - rank (5) [vs] opponent w/ ten of club - rank (9)
+opponent beat dealer with ten of club - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 41 opponent 11 (0 cards on table)
+round [182]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ ten of club - rank (9)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 42 opponent 10 (0 cards on table)
+round [183]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ five of heart - rank (4)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 43 opponent 9 (0 cards on table)
+round [184]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ nine of club - rank (8)
+dealer beat opponent with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [185]
+dealer w/ nine of club - rank (8) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [186]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ six of diamond - rank (5)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [187]
+dealer w/ queen of club - rank (11) [vs] opponent w/ queen of heart - rank (11)
+draw
+current score - dealer 45 opponent 5 (2 cards on table)
+round [188]
+dealer w/ nine of diamond - rank (8) [vs] opponent w/ seven of heart - rank (6)
+dealer beat opponent with nine of diamond - rank (8)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [189]
+dealer w/ five of spade - rank (4) [vs] opponent w/ six of club - rank (5)
+opponent beat dealer with six of club - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [190]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ six of club - rank (5)
+dealer beat opponent with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [191]
+dealer w/ four of heart - rank (3) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [192]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ four of heart - rank (3)
+opponent beat dealer with four of heart - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [193]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ five of spade - rank (4)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [194]
+dealer w/ nine of heart - rank (8) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with nine of heart - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [195]
+dealer w/ three of club - rank (2) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with three of club - rank (2)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 49 opponent 3 (0 cards on table)
+round [196]
+dealer w/ six of heart - rank (5) [vs] opponent w/ seven of club - rank (6)
+opponent beat dealer with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [197]
+dealer w/ four of diamond - rank (3) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [198]
+dealer w/ jack of spade - rank (10) [vs] opponent w/ six of heart - rank (5)
+dealer beat opponent with jack of spade - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [199]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ four of diamond - rank (3)
+dealer beat opponent with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 49 opponent 3 (0 cards on table)
+round [200]
+dealer w/ three of club - rank (2) [vs] opponent w/ seven of club - rank (6)
+opponent beat dealer with seven of club - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [201]
+dealer w/ deuce of spade - rank (1) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [202]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [203]
+dealer w/ king of heart - rank (12) [vs] opponent w/ king of diamond - rank (12)
+draw
+current score - dealer 45 opponent 5 (2 cards on table)
+round [204]
+dealer w/ three of diamond - rank (2) [vs] opponent w/ eight of diamond - rank (7)
+opponent beat dealer with eight of diamond - rank (7)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [205]
+dealer w/ nine of club - rank (8) [vs] opponent w/ eight of diamond - rank (7)
+dealer beat opponent with nine of club - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [206]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [207]
+dealer w/ five of diamond - rank (4) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [208]
+dealer w/ eight of diamond - rank (7) [vs] opponent w/ seven of club - rank (6)
+dealer beat opponent with eight of diamond - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [209]
+dealer w/ four of diamond - rank (3) [vs] opponent w/ five of diamond - rank (4)
+opponent beat dealer with five of diamond - rank (4)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [210]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ four of diamond - rank (3)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [211]
+dealer w/ jack of club - rank (10) [vs] opponent w/ three of club - rank (2)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [212]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ deuce of spade - rank (1)
+dealer beat opponent with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [213]
+dealer w/ six of club - rank (5) [vs] opponent w/ king of heart - rank (12)
+opponent beat dealer with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [214]
+dealer w/ queen of diamond - rank (11) [vs] opponent w/ king of heart - rank (12)
+opponent beat dealer with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [215]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [216]
+dealer w/ four of heart - rank (3) [vs] opponent w/ king of diamond - rank (12)
+opponent beat dealer with king of diamond - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [217]
+dealer w/ king of club - rank (12) [vs] opponent w/ six of club - rank (5)
+dealer beat opponent with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [218]
+dealer w/ nine of spade - rank (8) [vs] opponent w/ six of diamond - rank (5)
+dealer beat opponent with nine of spade - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [219]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ five of diamond - rank (4)
+dealer beat opponent with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [220]
+dealer w/ three of spade - rank (2) [vs] opponent w/ three of diamond - rank (2)
+draw
+current score - dealer 46 opponent 4 (2 cards on table)
+round [221]
+dealer w/ deuce of heart - rank (1) [vs] opponent w/ king of heart - rank (12)
+opponent beat dealer with king of heart - rank (12)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [222]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with seven of diamond - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [223]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ king of diamond - rank (12)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [224]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ deuce of heart - rank (1)
+dealer beat opponent with seven of spade - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [225]
+dealer w/ three of spade - rank (2) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [226]
+dealer w/ five of spade - rank (4) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [227]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ five of spade - rank (4)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [228]
+dealer w/ jack of club - rank (10) [vs] opponent w/ three of diamond - rank (2)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [229]
+dealer w/ jack of club - rank (10) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [230]
+dealer w/ six of diamond - rank (5) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with six of diamond - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [231]
+dealer w/ three of spade - rank (2) [vs] opponent w/ four of heart - rank (3)
+opponent beat dealer with four of heart - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [232]
+dealer w/ six of heart - rank (5) [vs] opponent w/ four of heart - rank (3)
+dealer beat opponent with six of heart - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [233]
+dealer w/ queen of heart - rank (11) [vs] opponent w/ jack of club - rank (10)
+dealer beat opponent with queen of heart - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 49 opponent 3 (0 cards on table)
+round [234]
+dealer w/ king of club - rank (12) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with king of club - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 50 opponent 2 (0 cards on table)
+round [235]
+dealer w/ five of heart - rank (4) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 49 opponent 3 (0 cards on table)
+round [236]
+dealer w/ four of club - rank (3) [vs] opponent w/ king of heart - rank (12)
+opponent beat dealer with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [237]
+dealer w/ nine of diamond - rank (8) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [238]
+dealer w/ ace of diamond - rank (13) [vs] opponent w/ king of heart - rank (12)
+dealer beat opponent with ace of diamond - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [239]
+dealer w/ seven of club - rank (6) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [240]
+dealer w/ eight of heart - rank (7) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [241]
+dealer w/ seven of heart - rank (6) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [242]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ seven of club - rank (6)
+draw
+current score - dealer 44 opponent 6 (2 cards on table)
+round [243]
+dealer w/ queen of spade - rank (11) [vs] opponent w/ four of club - rank (3)
+dealer beat opponent with queen of spade - rank (11)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [244]
+dealer w/ ten of spade - rank (9) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [245]
+dealer w/ seven of club - rank (6) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [246]
+dealer w/ eight of club - rank (7) [vs] opponent w/ ten of spade - rank (9)
+opponent beat dealer with ten of spade - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [247]
+dealer w/ jack of diamond - rank (10) [vs] opponent w/ seven of club - rank (6)
+dealer beat opponent with jack of diamond - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [248]
+dealer w/ seven of spade - rank (6) [vs] opponent w/ nine of diamond - rank (8)
+opponent beat dealer with nine of diamond - rank (8)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [249]
+dealer w/ king of spade - rank (12) [vs] opponent w/ eight of club - rank (7)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [250]
+dealer w/ ace of heart - rank (13) [vs] opponent w/ ten of spade - rank (9)
+dealer beat opponent with ace of heart - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [251]
+dealer w/ king of spade - rank (12) [vs] opponent w/ seven of spade - rank (6)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [252]
+dealer w/ deuce of club - rank (1) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [253]
+dealer w/ ten of heart - rank (9) [vs] opponent w/ deuce of club - rank (1)
+dealer beat opponent with ten of heart - rank (9)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [254]
+dealer w/ three of spade - rank (2) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [255]
+dealer w/ king of heart - rank (12) [vs] opponent w/ nine of diamond - rank (8)
+dealer beat opponent with king of heart - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [256]
+dealer w/ deuce of spade - rank (1) [vs] opponent w/ eight of heart - rank (7)
+opponent beat dealer with eight of heart - rank (7)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [257]
+dealer w/ three of club - rank (2) [vs] opponent w/ three of spade - rank (2)
+draw
+current score - dealer 45 opponent 5 (2 cards on table)
+round [258]
+dealer w/ six of spade - rank (5) [vs] opponent w/ queen of diamond - rank (11)
+opponent beat dealer with queen of diamond - rank (11)
+crediting winner with 2 new card(s) - (4) total
+current score - dealer 44 opponent 8 (0 cards on table)
+round [259]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ six of spade - rank (5)
+dealer beat opponent with seven of diamond - rank (6)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 45 opponent 7 (0 cards on table)
+round [260]
+dealer w/ jack of club - rank (10) [vs] opponent w/ five of heart - rank (4)
+dealer beat opponent with jack of club - rank (10)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 46 opponent 6 (0 cards on table)
+round [261]
+dealer w/ ace of club - rank (13) [vs] opponent w/ deuce of spade - rank (1)
+dealer beat opponent with ace of club - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 47 opponent 5 (0 cards on table)
+round [262]
+dealer w/ six of heart - rank (5) [vs] opponent w/ three of club - rank (2)
+dealer beat opponent with six of heart - rank (5)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 48 opponent 4 (0 cards on table)
+round [263]
+dealer w/ ace of spade - rank (13) [vs] opponent w/ queen of diamond - rank (11)
+dealer beat opponent with ace of spade - rank (13)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 49 opponent 3 (0 cards on table)
+round [264]
+dealer w/ four of diamond - rank (3) [vs] opponent w/ three of spade - rank (2)
+dealer beat opponent with four of diamond - rank (3)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 50 opponent 2 (0 cards on table)
+round [265]
+dealer w/ king of spade - rank (12) [vs] opponent w/ eight of heart - rank (7)
+dealer beat opponent with king of spade - rank (12)
+crediting winner with 1 new card(s) - (2) total
+current score - dealer 51 opponent 1 (0 cards on table)
+round [266]
+dealer w/ seven of diamond - rank (6) [vs] opponent w/ seven of heart - rank (6)
+draw
+current score - dealer 50 opponent 0 (2 cards on table)
+round [267]
+opponent exhausted all cards. returning 1 cards from table/play to opponent
+went from 2 on table to 1 on table
+dealer w/ eight of club - rank (7) [vs] opponent w/ seven of heart - rank (6)
+dealer beat opponent with eight of club - rank (7)
+crediting winner with 1 new card(s) - (3) total
+current score - dealer 52 opponent 0 (0 cards on table)
+game over, final score - dealer 52 opponent 0

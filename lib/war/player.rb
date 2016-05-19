@@ -12,7 +12,7 @@ module War
     end
 
     def opponent=(player)
-      raise "cannot play self" if self.equal? player
+      raise "cannot play self" if self.equal?(player)
 
       @opponent = player
     end

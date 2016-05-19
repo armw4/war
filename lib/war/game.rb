@@ -46,12 +46,12 @@ module War
       winner = nil
 
       puts "dealer w/ #{dealer_card} [vs] opponent w/ #{opponent_card}"
-      puts "dealer beat opponent with #{dealer_card}"   if dealer_card   > opponent_card and winner = @dealer
-      puts "opponent beat dealer with #{opponent_card}" if opponent_card > dealer_card   and winner = @opponent
+      puts "dealer beat opponent with #{dealer_card}"   if dealer_card   > opponent_card and winner = @dealer   and cards_won = @opponent_cards_in_play
+      puts "opponent beat dealer with #{opponent_card}" if opponent_card > dealer_card   and winner = @opponent and cards_won = @dealer_cards_in_play
       puts "draw"                                       if dealer_card == opponent_card
 
       if winner
-        puts "crediting winner with #{@cards_in_play.length / 2} card(s)"
+        puts "crediting winner with #{cards_won.length} new card(s) - (#{@cards_in_play.length}) total"
 
         winner.take_cards_won(@cards_in_play)
         clear_cards_in_play
