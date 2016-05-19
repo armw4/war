@@ -65,7 +65,7 @@ module War
     end
 
     def won?
-      score == 52 or opponent_exhausted_winnings_and_base_cards?
+      score == 52 or ((score > opponent_score) and (opponent_exhausted_winnings_and_base_cards?)) or opponent_exhausted_winnings_and_base_cards?
     end
 
     def score
@@ -77,6 +77,10 @@ module War
     end
 
     private
+
+    def opponent_score
+      @opponent.score
+    end
 
     # the one case for this appears to be when an opponent exhausts their
     # cards during a WAR. we have no choice but to terminate the game with
