@@ -83,6 +83,8 @@ module War
       round = 0
 
       while(!@dealer.won? and !@opponent.won?) do
+        puts "round [#{round += 1}]"
+
         dealer_card = @dealer.play_card
         opponent_card = @opponent.play_card
 
@@ -95,8 +97,6 @@ module War
           replay_opponent_cards
           opponent_card = @opponent.play_card
         end unless opponent_card
-
-        puts "round #{round += 1}"
 
         track_cards_in_play(dealer_card, opponent_card)
         determine_winner_and_score(dealer_card, opponent_card)
