@@ -12,7 +12,7 @@ module War
     end
 
     def next
-      @cards.shift
+      @cards.pop
     end
   end
 end
