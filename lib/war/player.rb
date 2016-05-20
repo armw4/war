@@ -15,6 +15,12 @@ module War
       if card
         return card
       else
+        # players will shuffle in necessary at the end of rounds, but if we were
+        # employing a more traditional style of war in where we put N cards face
+        # followed by 1 card face up to determine the winner of all 2N + 2 cards,
+        # we could actually exhaust all cards in the middle of putting down our Nth
+        # card face down, or 1 card face up. in that case, we should shuffle our winnings
+        # and play our Nth + 1 card (face down) or 1 card (face up) via those winnings (new base)
         shuffle_base_cards!
         return @base_cards.pop
       end
